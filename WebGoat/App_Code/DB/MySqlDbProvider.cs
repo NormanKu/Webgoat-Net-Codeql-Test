@@ -7,6 +7,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Threading;
 
+
 namespace OWASP.WebGoat.NET.App_Code.DB
 {
     public class MySqlDbProvider : IDbProvider
